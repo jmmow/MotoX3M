@@ -7516,9 +7516,6 @@ fg_api.prototype.geoModule = function() {
 	return M;
 };
 
-
-
-
 fg_api.prototype.lsgModule = function() {
 	var self = this,
 		M;
@@ -7708,9 +7705,6 @@ fg_api.prototype.lsgModule = function() {
 
 	return M;
 };
-
-
-
 
 fg_api.prototype.gametranslationModule = function() {
 	var self = this,
